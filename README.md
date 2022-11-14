@@ -1,6 +1,6 @@
 ### Oii!! Eu sou o Daniel Ângelo 👋
 
-- 📚 Estou no Segundo periodo do curso de Sistemas de Informação na UFOP.
+- 📚 Estou no Quarto periodo do curso de Sistemas de Informação na UFOP.
 
 <div align="center">
   <a href="https://github.com/danielangelo1">
