@@ -1,6 +1,6 @@
 ### Oii!! Eu sou o Daniel Ângelo 👋
 
-- 📚 Estudande Sistemas de Informação 4/8.
+- 📚 Estudante Sistemas de Informação 4/8.
 
 <div align="center">
   <a href="https://github.com/danielangelo1">
