@@ -9,8 +9,8 @@
 </div>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=danielangelo1&show_icons=true&count_private=true&hide_border=true&title_color=B22222&icon_color=B22222&text_color=c9d1d9&bg_color=0d1117" alt="Daniel github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielangelo1&layout=compact&hide_border=true&title_color=B22222&text_color=B22222&bg_color=0d1117&langs_count=7" />
+  <img width="49%" height="195px" src="https://github-readme-stats-danielangelo1.vercel.app/api?username=danielangelo1&show_icons=true&count_private=true&hide_border=true&title_color=B22222&icon_color=B22222&text_color=c9d1d9&bg_color=0d1117" alt="Daniel github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-danielangelo1.vercel.app/api/top-langs/?username=danielangelo1&layout=compact&hide_border=true&title_color=B22222&text_color=B22222&bg_color=0d1117&langs_count=7&count_private=true" />
 </div>
   
 
